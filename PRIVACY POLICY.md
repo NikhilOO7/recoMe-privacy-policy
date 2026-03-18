@@ -79,7 +79,7 @@ We may update this privacy policy from time to time. Changes will be noted with 
 ## Contact
 
 If you have questions about this privacy policy, please open an issue at:
-https://github.com/nikhiloo7/recoME/issues
+[https://github.com/nikhiloo7/recome-website/issues](https://github.com/NikhilOO7/recome-website/issues)
 
 ## Your Rights
 
